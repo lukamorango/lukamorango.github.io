@@ -1,0 +1,69 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #694530;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*virou título*/
+
+.título {
+    background-color: #ffe1ef;
+    /*espaçamento interno*/
+    padding: 10px;
+    /*tamanho da letra*/
+    font-size: 32px;
+    /*arredondamento da borda*/
+    border-radius: 30px;
+}
+
+/*h2 virou subtítulo*/
+
+.subtítulo {
+    border-bottom: 2px solid rgb(255, 191, 217);
+}
+
+figure {
+    margin: 30px;
+    padding: 15px;
+    border-radius: 50px;
+    
+
+    text-align: center;
+    background-color: #fcf9e8;
+    border: #ffc9df;
+    
+}
+
+img {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+figure img {
+    width: 100%;
+    border-radius: 50px;
+}
+
+.doceria-espaço-da-frente {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fundadoras {
+    width: 275px;
+    float: right;
+}
+
+.contato__subtítulo {
+    display: inline;
+}
+
+.contato__info {
+margin: 16px 0 24px;
+padding-left: 32px;
+}
